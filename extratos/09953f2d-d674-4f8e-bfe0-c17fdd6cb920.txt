@@ -1,0 +1,25 @@
+Banco Santander
+Agência: ... 3121
+Conta: ..... 35306174-8
+
+Data 			Tipo 		Valor 		Operador 
+
+04-01-22 11:24:42	DEPOSITO	+100,00		Felipe	
+04-01-22 13:24:42	SAQUE		-80,00		Bryan	
+07-01-22 15:36:58	SAQUE		-20,00		Eduarda	
+07-01-22 15:55:53	DEPOSITO	+260,00		Larissa	
+08-01-22 13:18:40	DEPOSITO	+360,00		Miguel	
+17-01-22 11:30:28	DEPOSITO	+100,00		Larissa	
+17-01-22 14:30:28	SAQUE		-280,00		João	
+20-01-22 15:12:24	SAQUE		-300,00		Larissa	
+20-01-22 15:12:24	SAQUE		-220,00		Lucas	
+21-01-22 14:37:07	DEPOSITO	+20,00		Clarissa	
+23-01-22 11:32:28	DEPOSITO	+160,00		Helena	
+23-01-22 12:32:28	DEPOSITO	+80,00		Catarina	
+25-01-22 12:22:43	DEPOSITO	+100,00		Ingrid	
+25-01-22 14:22:43	DEPOSITO	+160,00		Giovanna	
+26-01-22 12:53:20	DEPOSITO	+60,00		Felipe	
+26-01-22 15:53:20	DEPOSITO	+520,00		Luis	
+28-01-22 13:34:24	SAQUE		-160,00		Ezequiel	
+
+Saldo: ...............................	860.0

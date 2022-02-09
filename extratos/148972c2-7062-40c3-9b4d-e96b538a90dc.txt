@@ -1,0 +1,29 @@
+Banco Santander
+Agência: ... 2254
+Conta: ..... 37025102-7
+
+Data 			Tipo 		Valor 		Operador 
+
+03-01-22 15:20:27	DEPOSITO	+360,00		Jade	
+04-01-22 11:24:42	DEPOSITO	+20,00		Ângelo	
+07-01-22 11:36:58	SAQUE		-520,00		Francisco	
+07-01-22 13:36:58	DEPOSITO	+40,00		Matheus	
+07-01-22 13:36:58	SAQUE		-40,00		Maitê	
+07-01-22 14:36:58	DEPOSITO	+160,00		Bryan	
+07-01-22 15:55:53	SAQUE		-560,00		Francisco	
+07-01-22 15:55:53	DEPOSITO	+100,00		Bryan	
+08-01-22 11:18:40	DEPOSITO	+80,00		Alexandre	
+08-01-22 15:18:40	SAQUE		-40,00		Larissa	
+17-01-22 12:30:28	DEPOSITO	+60,00		David	
+17-01-22 13:30:28	DEPOSITO	+80,00		Frederico	
+17-01-22 14:30:28	DEPOSITO	+60,00		Miguel	
+17-01-22 15:30:28	SAQUE		-440,00		Antônio	
+21-01-22 13:42:37	DEPOSITO	+60,00		Ezequiel	
+21-01-22 15:37:07	SAQUE		-540,00		Flôr	
+23-01-22 11:32:28	SAQUE		-200,00		Matheus	
+25-01-22 13:22:43	DEPOSITO	+380,00		Eduarda	
+25-01-22 15:22:43	DEPOSITO	+540,00		Felipe	
+28-01-22 12:34:24	DEPOSITO	+180,00		Clarissa	
+29-01-22 13:56:11	SAQUE		-220,00		Juliano	
+
+Saldo: ...............................	-440.0
